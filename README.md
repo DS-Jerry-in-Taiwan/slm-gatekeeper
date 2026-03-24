@@ -1,1 +1,2 @@
-# SLM Gatekeeper\n\n- Local SLM Gateway for AI automation tools.
+# SLM Gatekeeper
+Local SLM Gateway for AI automation tools.
